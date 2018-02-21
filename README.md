@@ -6,13 +6,13 @@
 
 `Exercises:` Fri 15:15-17:00 in [BC01](http://plan.epfl.ch/?lang=en&room=BC01)
 
-This course teaches an overview of modern optimization methods, for applications in machine learning and data science. In particular, scalability of algorithms to large datasets will be discussed in theory and in implementation.
+This course teaches an overview of modern mathematical optimization methods, for applications in machine learning and data science. In particular, scalability of algorithms to large datasets will be discussed in theory and in implementation.
 
-Basic Contents:
+`Contents:`
 
-Convexity, Gradient Methods, Proximal algorithms, Stochastic and Online Variants of mentioned methods, Coordinate Descent Methods, Subgradient Methods, Frank-Wolfe, Accelerated Methods, Primal-Dual context and certificates, Lagrange and Fenchel Duality, Second-Order Methods, Quasi-Newton Methods. Black-Box Optimization.
+Convexity, Gradient Methods, Proximal algorithms, Subgradient Methods, Stochastic and Online Variants of mentioned methods, Coordinate Descent, Frank-Wolfe, Accelerated Methods, Primal-Dual context and certificates, Lagrange and Fenchel Duality, Second-Order Methods including Quasi-Newton Methods. Derivative-Free Optimization.
 
-Advanced Contents:
+`Advanced Contents:`
 
 Parallel and Distributed Optimization Algorithms, Synchronous and Asynchronous Communication.
 
@@ -21,13 +21,33 @@ Computational and Statistical Trade-Offs (Time vs Data vs Accuracy). Variance Re
 Non-Convex Optimization: Convergence to Critical Points, Saddle-Point methods, Alternating minimization for matrix and tensor factorizations
 
 ### Program:
+Nr | Date | Topic and Materials | Exercises
+--- | --- | --- | ---
+#1 | 23.2. | Introduction, Convexity | -
+#2 |  2.3. | Gradient Descent | 
+#3 |  9.3. | | 
+#4 | 16.3. | | 
+#5 | 23.3. | | 
+ . | 30.3. | `easter vacation` | -
+ . |  6.4. | `easter vacation` | -
+#6 | 13.4. | | 
+#7 | 20.4. | | 
+#8 | 27.4. | | 
+#9 |  4.5. | | 
+#10 | 11.5. | `Mini-Project week` | 
+#11 | 18.5. | | 
+#12 | 25.5. | | 
+#13 |  1.6. | | 
+
+### Exercises:
+The weekly exercises will consist of a mix of theoretical and practical (`Python`) exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
 
 ### Assessment:
 Final written exam in exam session
 
 ### Links to related courses and materials 
  - [CMU](http://www.cs.cmu.edu/~pradeepr/convexopt/)
- - [Berkeley](http://www.cs.cmu.edu/~pradeepr/convexopt/)
+ - [Berkeley](https://ee227c.github.io/)
  
 ### Recommended Books
  - [Convex Optimization: Algorithms and Complexity](https://arxiv.org/pdf/1405.4980.pdf), by Sébastien Bubeck (free online)
