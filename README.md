@@ -50,9 +50,7 @@ Nr | Date | Topic | Materials | Exercises
 The weekly exercises will consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
 
 ### Assessment:
-Final written exam in exam session
-
-_Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
+Final written exam in exam session. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
 
 ### Links to related courses and materials 
  - [CMU 10-725](http://www.cs.cmu.edu/~pradeepr/convexopt/)
