@@ -8,11 +8,18 @@
 
 This course teaches an overview of modern mathematical optimization methods, for applications in machine learning and data science. In particular, scalability of algorithms to large datasets will be discussed in theory and in implementation.
 
+### Team
+ - Instructor: Martin Jaggi [martin.jaggi@epfl.ch](mailto:martin.jaggi@epfl.ch)
+ - Assistants:
+   - Prakhar Gupta [prakhar.gupta@epfl.ch](mailto:prakhar.gupta@epfl.ch)
+   - Sai Praneeth Karimireddy [sai.karimireddy@epfl.ch](mailto:prakhar.gupta@epfl.ch)
+   - Nicolas El Maalouly [nicolas.elmaalouly@epfl.ch](mailto:nicolas.elmaalouly@epfl.ch)
+
 `Contents:`
 
 Convexity, Gradient Methods, Proximal algorithms, Subgradient Methods, Stochastic and Online Variants of mentioned methods, Coordinate Descent, Frank-Wolfe, Accelerated Methods, Primal-Dual context and certificates, Lagrange and Fenchel Duality, Second-Order Methods including Quasi-Newton Methods. Derivative-Free Optimization.
 
-`Advanced Contents:`
+*Advanced Contents:*
 
 Parallel and Distributed Optimization Algorithms, Synchronous and Asynchronous Communication.
 
@@ -40,14 +47,14 @@ Nr | Date | Topic and Materials | Exercises
 #13 |  1.6. | | 
 
 ### Exercises:
-The weekly exercises will consist of a mix of theoretical and practical (`Python`) exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
+The weekly exercises will consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
 
 ### Assessment:
 Final written exam in exam session
 
 ### Links to related courses and materials 
- - [CMU](http://www.cs.cmu.edu/~pradeepr/convexopt/)
- - [Berkeley](https://ee227c.github.io/)
+ - [CMU 10-725](http://www.cs.cmu.edu/~pradeepr/convexopt/)
+ - [Berkeley EE-227C](https://ee227c.github.io/)
  
 ### Recommended Books
  - [Convex Optimization: Algorithms and Complexity](https://arxiv.org/pdf/1405.4980.pdf), by Sébastien Bubeck (free online)
