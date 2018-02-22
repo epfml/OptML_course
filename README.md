@@ -30,7 +30,7 @@ Non-Convex Optimization: Convergence to Critical Points, Saddle-Point methods, A
 ### Program:
 Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
-#1 | 23.2. | Introduction, Convexity | [notes](/epfml/OptML_course/raw/master/lecture_notes/chapter1.pdf), [slides](/epfml/OptML_course/raw/master/slides/lecture01.pdf)| -
+#1 | 23.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/chapter1.pdf), [slides](../../raw/master/slides/lecture01.pdf)| -
 #2 |  2.3. | Gradient Descent | | 
 #3 |  9.3. | | | 
 #4 | 16.3. | | | 
