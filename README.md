@@ -2,9 +2,9 @@
 
 [Official coursebook information](http://edu.epfl.ch/coursebook/en/optimization-for-machine-learning-CS-439)
 
-`Lectures:` Fri 13:15-15:00 in [BC01](http://plan.epfl.ch/?lang=en&room=BC01)
+`Lectures:` Fri 13:15-15:00 in [CE 1 2](http://plan.epfl.ch/?room=ce%201%202) (note the room change!)
 
-`Exercises:` Fri 15:15-17:00 in [BC01](http://plan.epfl.ch/?lang=en&room=BC01)
+`Exercises:` Fri 15:15-17:00 in [CE 1 2](http://plan.epfl.ch/?room=ce%201%202)
 
 This course teaches an overview of modern mathematical optimization methods, for applications in machine learning and data science. In particular, scalability of algorithms to large datasets will be discussed in theory and in implementation.
 
