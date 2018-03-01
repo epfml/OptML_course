@@ -33,7 +33,7 @@ Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
 #1 | 23.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/chapter1.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
 #2 |  2.3. | Gradient Descent | | 
-#3 |  9.3. | | | 
+#3 |  9.3. | Projected Gradient Descent | | 
 #4 | 16.3. | | | 
 #5 | 23.3. | | |
  . | 30.3. | `easter vacation` | | -
@@ -48,7 +48,7 @@ Nr | Date | Topic | Materials | Exercises
 #13 |  1.6. | | | 
 
 ### Exercises:
-The weekly exercises will consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
+The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
 
 ### Assessment:
 Final written exam in exam session. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
