@@ -32,7 +32,7 @@ Non-Convex Optimization: Convergence to Critical Points, Saddle-Point methods, A
 Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
 #1 | 23.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/chapter1.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
-#2 |  2.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/chapter2.pdf), [slides](../../raw/master/slides/lecture02.pdf) | 
+#2 |  2.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/chapter2.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab02](../../tree/master/labs/ex02/)
 #3 |  9.3. | Projected Gradient Descent | | 
 #4 | 16.3. | Proximal and Subgradient Descent | | 
 #5 | 23.3. | Stochastic Gradient Descent | |
