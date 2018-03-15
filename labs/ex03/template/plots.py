@@ -30,12 +30,7 @@ def base_visualization(grid_losses, w0_list, w1_list,
         w0_list, w1_list, grid_losses)
     ax1.plot(w0_star, w1_star, marker='*', color='r', markersize=20)
 
-    # plot f(x)
-    ax2 = fig.add_subplot(1, 2, 2)
-    ax2.scatter(height, weight, marker=".", color='b', s=5)
-    ax2.set_xlabel("x")
-    ax2.set_ylabel("y")
-    ax2.grid()
+    
 
     return fig
 
@@ -68,13 +63,12 @@ def gradient_descent_visualization(
     if n_iter is not None:
         ws_to_be_plotted = ws_to_be_plotted[:n_iter]
 
-    ax1, ax2 = fig.get_axes()[0], fig.get_axes()[2]
+    ax1 = fig.get_axes()[0]
     ax1.plot(
         ws_to_be_plotted[:, 0], ws_to_be_plotted[:, 1],
         marker='o', color='w', markersize=10)
     pred_x, pred_y = prediction(
         ws_to_be_plotted[-1, 0], ws_to_be_plotted[-1, 1],
         mean_x, std_x)
-    ax2.plot(pred_x, pred_y, 'r')
-
+    
     return fig
