@@ -34,8 +34,8 @@ Nr | Date | Topic | Materials | Exercises
 #1 | 23.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/chapter1.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
 #2 |  2.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/chapter2.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab02](../../tree/master/labs/ex02/)
 #3 |  9.3. | Projected Gradient Descent | [notes](../../raw/master/lecture_notes/chapter3.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab03](../../tree/master/labs/ex03/)
-#4 | 16.3. | Proximal, Subgradient and Stochastic Gradient | [notes](../../raw/master/lecture_notes/chapter4and5.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/)
-#5 | 23.3. | Stochastic Gradient Descent | |
+#4 | 16.3. | Projected, Proximal Gradient Descent | [notes](../../raw/master/lecture_notes/chapter3.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/)
+#5 | 23.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/chapter4and5.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/)
  . | 30.3. | `easter vacation` | | -
  . |  6.4. | `easter vacation` | | -
 #6 | 13.4. | | | 
