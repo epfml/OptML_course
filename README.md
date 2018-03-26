@@ -48,10 +48,13 @@ Nr | Date | Topic | Materials | Exercises
 #13 |  1.6. | | | 
 
 ### Exercises:
-The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Additionally, the `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. Project is done individually, not graded, and collaboration is encouraged.
+The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). 
+
+### Mini-project:
+An optional `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is optional and done in groups of 2-3 students. If students decide to do the project, and if their project grade exceeds their exam grade, it will count 20% to the final grade. Project reports (2 page PDF) will be due May 24th.
 
 ### Assessment:
-Final written exam in exam session. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
+Final written exam in exam session. Provisonal date: `Friday 06.07.2018 from 16h15 to 19h15 (in CE1515)` _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
 
 ### Links to related courses and materials 
  - [CMU 10-725](http://www.cs.cmu.edu/~pradeepr/convexopt/)
