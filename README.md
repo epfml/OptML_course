@@ -48,7 +48,7 @@ Nr | Date | Topic | Materials | Exercises
 #13 |  1.6. | | | 
 
 ### Exercises:
-The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). 
+The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions are available [here](../../tree/master/lecture_notes).
 
 ### Mini-project:
 An optional `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is optional and done in groups of 2-3 students. If students decide to do the project, and if their project grade exceeds their exam grade, it will count 20% to the final grade. Project reports (2 page PDF) will be due May 24th.
