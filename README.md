@@ -38,7 +38,7 @@ Nr | Date | Topic | Materials | Exercises
 #5 | 23.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/chapter4and5.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/)
  . | 30.3. | `easter vacation` | | -
  . |  6.4. | `easter vacation` | | -
-#6 | 13.4. | | | 
+#6 | 13.4. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
 #7 | 20.4. | | | 
 #8 | 27.4. | | | 
 #9 |  4.5. | | | 
