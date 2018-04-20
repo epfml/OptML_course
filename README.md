@@ -39,7 +39,7 @@ Nr | Date | Topic | Materials | Exercises
  . | 30.3. | `easter vacation` | | -
  . |  6.4. | `easter vacation` | | -
 #6 | 13.4. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
-#7 | 20.4. | | | 
+#7 | 20.4. | Quasi-Newton methods | [notes](../../raw/master/lecture_notes/chapter7.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) | 
 #8 | 27.4. | | | 
 #9 |  4.5. | | | 
 #10 | 11.5. | `Mini-Project week` | | 
