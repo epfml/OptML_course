@@ -40,7 +40,7 @@ Nr | Date | Topic | Materials | Exercises
  . |  6.4. | `easter vacation` | | -
 #6 | 13.4. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
 #7 | 20.4. | Quasi-Newton methods | [notes](../../raw/master/lecture_notes/chapter7.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) | 
-#8 | 27.4. | | | 
+#8 | 27.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab07](../../tree/master/labs/ex08/) | 
 #9 |  4.5. | | | 
 #10 | 11.5. | `Mini-Project week` | | 
 #11 | 18.5. | | | 
@@ -48,10 +48,10 @@ Nr | Date | Topic | Materials | Exercises
 #13 |  1.6. | | | 
 
 ### Exercises:
-The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions are available [here](../../tree/master/lecture_notes).
+The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to theory exercises are available [here](../../tree/master/lecture_notes), and for practicals in the lab folder.
 
 ### Mini-project:
-An optional `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is optional and done in groups of 2-3 students. If students decide to do the project, and if their project grade exceeds their exam grade, it will count 20% to the final grade. Project reports (2 page PDF) will be due May 24th.
+An optional `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is optional and done in groups of 2-3 students. If students decide to do the project, and if their project grade exceeds their exam grade, it will count 20% to the final grade. Project reports (2 page PDF) are due May 24th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
 Final written exam in exam session. Provisonal date: `Friday 06.07.2018 from 16h15 to 19h15 (in CE1515)` _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
