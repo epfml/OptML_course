@@ -40,8 +40,8 @@ Nr | Date | Topic | Materials | Exercises
  . |  6.4. | `easter vacation` | | -
 #6 | 13.4. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
 #7 | 20.4. | Quasi-Newton methods | [notes](../../raw/master/lecture_notes/chapter7.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) | 
-#8 | 27.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab07](../../tree/master/labs/ex08/) | 
-#9 |  4.5. | | | 
+#8 | 27.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) | 
+#9 |  4.5. | Coordinate Descent | | 
 #10 | 11.5. | `Mini-Project week` | | 
 #11 | 18.5. | | | 
 #12 | 25.5. | | | 
