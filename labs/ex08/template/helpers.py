@@ -13,10 +13,10 @@ def read_txt(path):
         return f.read().splitlines()
 
 
-def load_data(path_dataset):
+def load_data(path_dataset, n=500):
     """Load data in text format, one rating per line, as in the kaggle competition."""
     data = read_txt(path_dataset)[1:]
-    return preprocess_data(data)
+    return preprocess_data(data,n)
 
 def slice(ratings,n=None):
     """take the first n rows and n columns only"""
@@ -24,7 +24,7 @@ def slice(ratings,n=None):
         ratings = ratings[:n,:n]
     return ratings
 
-def preprocess_data(data):
+def preprocess_data(data, n = 500):
     """preprocessing the text data, conversion to numerical array format."""
     def deal_line(line):
         pos, rating = line.split(',')
@@ -49,7 +49,6 @@ def preprocess_data(data):
     for row, col, rating in data:
         ratings[row - 1, col - 1] = rating
     # Reduce the size of the dataset
-    n = 500
     ratings = slice(ratings, n)
     # Make the trace 1 by scaling all entries of matrix
     ratings = ratings/np.trace(ratings)
