@@ -54,7 +54,7 @@ The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical 
 An optional `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is optional and done in groups of 2-3 students. If students decide to do the project, and if their project grade exceeds their exam grade, it will count 20% to the final grade. Project reports (2 page PDF) are due May 24th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
-Final written exam in exam session. Provisonal date: `Friday 06.07.2018 from 16h15 to 19h15 (in CE1515)` _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
+Final written exam in exam session. Date: `Friday 06.07.2018 from 16h15 to 19h15 (in CE1515)` _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
 
 ### Links to related courses and materials 
  - [CMU 10-725](http://www.cs.cmu.edu/~pradeepr/convexopt/)
