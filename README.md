@@ -43,7 +43,7 @@ Nr | Date | Topic | Materials | Exercises
 #8 | 27.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) | 
 #9 |  4.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/chapter9.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) | 
 #10 | 11.5. | `Mini-Project week` | | 
-#11 | 18.5. | | | 
+#11 | 18.5. | Accelerated Methods | notes, [slides](../../raw/master/slides/lecture10.pdf) | 
 #12 | 25.5. | | | 
 #13 |  1.6. | | | 
 
