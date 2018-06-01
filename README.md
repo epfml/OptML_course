@@ -24,9 +24,9 @@ Convexity, Gradient Methods, Proximal algorithms, Subgradient Methods, Stochasti
 
 Parallel and Distributed Optimization Algorithms, Synchronous and Asynchronous Communication.
 
-Computational and Statistical Trade-Offs (Time vs Data vs Accuracy). Variance Reduced Methods, and Lower Bounds.
+Computational Trade-Offs (Time vs Data vs Accuracy), Lower Bounds.
 
-Non-Convex Optimization: Convergence to Critical Points, Saddle-Point methods, Alternating minimization for matrix and tensor factorizations
+Non-Convex Optimization: Convergence to Critical Points, Alternating minimization
 
 ### Program:
 Nr | Date | Topic | Materials | Exercises
@@ -45,7 +45,7 @@ Nr | Date | Topic | Materials | Exercises
 #10 | 11.5. | `Mini-Project week` | | 
 #11 | 18.5. | Accelerated Methods | notes, [slides](../../raw/master/slides/lecture10.pdf) | [lab10](../../tree/master/labs/ex10/)
 #12 | 25.5. | Duality, Gradient-free methods, Applications | notes, [slides](../../raw/master/slides/lecture11.pdf) | 
-#13 |  1.6. | | | 
+#13 |  1.6. | Opt for ML in Practice | &nbsp; &nbsp; &nbsp;  [slides](../../raw/master/slides/lecture12.pdf) | 
 
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to theory exercises are available [here](../../tree/master/lecture_notes), and for practicals in the lab folder.
