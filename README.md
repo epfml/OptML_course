@@ -32,19 +32,19 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
 #1 | 22.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/chapter1.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
-#2 |  1.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/chapter2.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab02](../../tree/master/labs/ex02/)
-#3 |  8.3. | Projected Gradient Descent | [notes](../../raw/master/lecture_notes/chapter3.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab03](../../tree/master/labs/ex03/)
-#4 | 15.3. | Projected, Proximal Gradient Descent | [notes](../../raw/master/lecture_notes/chapter3.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/)
-#5 | 22.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/chapter4and5.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/)
-#6 | 29.3. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
-#7 |  5.4. | Quasi-Newton methods | [notes](../../raw/master/lecture_notes/chapter7.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) | 
-#8 | 12.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) | 
+#2 |  1.3. | Gradient Descent | | 
+#3 |  8.3. | Projected Gradient Descent | | 
+#4 | 15.3. | Projected, Proximal Gradient Descent | | 
+#5 | 22.3. | Subgradient, Stochastic Gradient Descent | | 
+#6 | 29.3. | Non-Convex Optimization | | 
+#7 |  5.4. | Newton's Method | | 
+#8 | 12.4. | Quasi-Newton methods | | 
 . | 19.4. | `easter vacation` | | -
 . | 26.4. | `easter vacation` | | -
-#9 |  3.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/chapter9.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) | 
-#10 | 10.5. | Accelerated Methods | notes, [slides](../../raw/master/slides/lecture10.pdf) | [lab10](../../tree/master/labs/ex10/)
-#11 | 17.5. | Duality, Gradient-free methods, Applications | notes, [slides](../../raw/master/slides/lecture11.pdf) | 
-#12 | 24.5. | Opt for ML in Practice | &nbsp; &nbsp; &nbsp;  [slides](../../raw/master/slides/lecture12.pdf) | 
+#9 |  3.5. | Frank-Wolfe | | 
+#10 | 10.5. | Coordinate Descent | | 
+#11 | 17.5. | Duality, Gradient-free methods, Applications | | 
+#12 | 24.5. | Opt for ML in Practice | | 
 #13 | 31.5. | `Mini-Project week` | | 
 
 ### Exercises:
