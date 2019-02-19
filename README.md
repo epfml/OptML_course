@@ -2,18 +2,18 @@
 
 [Official coursebook information](http://edu.epfl.ch/coursebook/en/optimization-for-machine-learning-CS-439)
 
-`Lectures:` Fri 13:15-15:00 in [CE2](http://plan.epfl.ch/?room=ce2)
+`Lectures:` Fri 13:15-15:00 in [BC01](https://plan.epfl.ch/?room==BC%2001)
 
-`Exercises:` Fri 15:15-17:00 in [CE2](http://plan.epfl.ch/?room=ce2)
+`Exercises:` Fri 15:15-17:00 in [BC01](https://plan.epfl.ch/?room==BC%2001)
 
 This course teaches an overview of modern mathematical optimization methods, for applications in machine learning and data science. In particular, scalability of algorithms to large datasets will be discussed in theory and in implementation.
 
 ### Team
  - Instructor: Martin Jaggi [martin.jaggi@epfl.ch](mailto:martin.jaggi@epfl.ch)
  - Assistants:
-   - Prakhar Gupta [prakhar.gupta@epfl.ch](mailto:prakhar.gupta@epfl.ch)
+   - Anastasia Koloskova [anastasia.koloskova@epfl.ch](mailto:anastasia.koloskova@epfl.ch)
    - Sai Praneeth Karimireddy [sai.karimireddy@epfl.ch](mailto:prakhar.gupta@epfl.ch)
-   - El Mahdi El Mhamdi [elmahdi.elmhamdi@epfl.ch](elmahdi.elmhamdi@epfl.ch)
+   - Thijs Vogels [thijs.vogels@epfl.ch](mailto:thijs.vogels@epfl.ch)
    - Nicolas El Maalouly [nicolas.elmaalouly@epfl.ch](mailto:nicolas.elmaalouly@epfl.ch)
 
 `Contents:`
