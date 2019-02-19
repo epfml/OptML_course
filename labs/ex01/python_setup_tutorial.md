@@ -26,8 +26,7 @@ If you want to see some examples already, feel free to take a look at
 
 * The introductory notebooks available at [Try Jupiter](https://try.jupyter.org/). It spawns an instance of the Jupyter Notebook, which won't save any of your changes.
   *Note: it might not be available if their server is under too much load.*
-* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks) by the Ipython Notebook team
-* [Another gallery of notebooks](http://nb.bianp.net/sort/views/)
+* [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) by the Ipython Notebook team
 
 #### Tips & Tricks
 
@@ -39,7 +38,7 @@ There are a few handy commands that you should start every notebook with
 	
 	# Automatically reload modules
 	%load_ext autoreload
-	%autoreload 2        
+	%autoreload 2
 	
 	# The usual imports
 	import matplotlib.pyplot as plt
@@ -76,7 +75,7 @@ For a nice introduction to Python, you should take a look at [the Python tutoria
 * Section 10 on the standard library and [the standard library index](https://docs.python.org/3/library/index.html) are worth a quick scroll to see what's available.
 * Do not bother with Sections 11-16 for now.
 
-Here are some additionnal ressources on Python:
+Here are some additionnal resources on Python:
 
 * [Python's standard library reference](https://docs.python.org/3/library/index.html)
 * [Debugging and profiling](https://docs.python.org/3/library/debug.html)
@@ -96,7 +95,7 @@ A good and probably more complete reference is [this one](http://www.engr.ucsb.e
 
 ### Installation FAQ
 
-> **Other shell.** If you are using another shell (e.g. zsh on Mac OSX), after installing Anaconda you still need to add the installed software to your path, that is to add it to the correct profile of your shell. To do so, run the following commands in your terminal ` touch ~/.bash_profile; open ~/.bash_profile`. It will open your bash profile where you'll see the line that was added by the Python installer. Copy it. Then ` touch ~/.zshrc; open ~/.zshrc`, that will open the profile for zsh, you can paste the line at the bottom of the file.)
+> **Other shell.** If you are using another shell (e.g. zsh on Mac OSX), after installing Anaconda you still need to add the installed software to your path, that is to add it to the correct profile of your shell. To do so, run the following commands in your terminal ` touch ~/.bash_profile; open ~/.bash_profile`. It will open your bash profile where you'll see the line that was added by the Python installer. Copy it. Then ` touch ~/.zshrc; open ~/.zshrc`, that will open the profile for zsh, you can paste the line at the bottom of the file.
 
 > **Alternative Python IDEs.** While we recommend plain Jupyter Notebooks, if you are more comfortable using a more traditional IDE, you can give [**PyCharm**](https://www.jetbrains.com/pycharm/) a try. Your EPFL email gives you access to the free educational version. You should keep this option in mind if you need a full fledged debugger to find a nasty bug.
 
