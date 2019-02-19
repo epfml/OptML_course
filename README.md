@@ -36,11 +36,11 @@ Nr | Date | Topic | Materials | Exercises
 #3 |  8.3. | Projected Gradient Descent | [notes](../../raw/master/lecture_notes/chapter3.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab03](../../tree/master/labs/ex03/)
 #4 | 15.3. | Projected, Proximal Gradient Descent | [notes](../../raw/master/lecture_notes/chapter3.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/)
 #5 | 22.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/chapter4and5.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/)
- . | 29.3. | `easter vacation` | | -
- . |  5.4. | `easter vacation` | | -
-#6 | 12.4. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
-#7 | 19.4. | Quasi-Newton methods | [notes](../../raw/master/lecture_notes/chapter7.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) | 
-#8 | 26.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) | 
+#6 | 29.3. | Newton's Method | [notes](../../raw/master/lecture_notes/chapter6.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) | 
+#7 |  5.4. | Quasi-Newton methods | [notes](../../raw/master/lecture_notes/chapter7.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) | 
+#8 | 12.4. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) | 
+. | 19.4. | `easter vacation` | | -
+. | 26.4. | `easter vacation` | | -
 #9 |  3.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/chapter9.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) | 
 #10 | 10.5. | Accelerated Methods | notes, [slides](../../raw/master/slides/lecture10.pdf) | [lab10](../../tree/master/labs/ex10/)
 #11 | 17.5. | Duality, Gradient-free methods, Applications | notes, [slides](../../raw/master/slides/lecture11.pdf) | 
