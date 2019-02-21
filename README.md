@@ -22,11 +22,11 @@ Convexity, Gradient Methods, Proximal algorithms, Subgradient Methods, Stochasti
 
 *Advanced Contents:*
 
-Parallel and Distributed Optimization Algorithms, Synchronous and Asynchronous Communication.
+Parallel and Distributed Optimization Algorithms
 
-Computational Trade-Offs (Time vs Data vs Accuracy), Lower Bounds.
+Computational Trade-Offs (Time vs Data vs Accuracy), Lower Bounds
 
-Non-Convex Optimization: Convergence to Critical Points, Alternating minimization
+Non-Convex Optimization: Convergence to Critical Points, Alternating minimization, Neural network training
 
 ### Program:
 Nr | Date | Topic | Materials | Exercises
