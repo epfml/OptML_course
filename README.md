@@ -32,7 +32,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
 #1 | 22.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/chapter1.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
-#2 |  1.3. | Gradient Descent | | 
+#2 |  1.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/chapter2.pdf), [slides](../../raw/master/slides/lecture02.pdf)| [lab02](../../tree/master/labs/ex02/)
 #3 |  8.3. | Projected Gradient Descent | | 
 #4 | 15.3. | Projected, Proximal Gradient Descent | | 
 #5 | 22.3. | Subgradient, Stochastic Gradient Descent | | 
