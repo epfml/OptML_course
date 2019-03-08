@@ -33,7 +33,7 @@ Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
 #1 | 22.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
 #2 |  1.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf)| [lab02](../../tree/master/labs/ex02/)
-#3 |  8.3. | Projected Gradient Descent [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf)| [lab01](../../tree/master/labs/ex03/)
+#3 |  8.3. | Projected Gradient Descent| [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf)| [lab03](../../tree/master/labs/ex03/)
 #4 | 15.3. | Projected, Proximal Gradient Descent | | 
 #5 | 22.3. | Subgradient, Stochastic Gradient Descent | | 
 #6 | 29.3. | Non-Convex Optimization | | 
