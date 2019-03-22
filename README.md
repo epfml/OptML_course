@@ -35,7 +35,7 @@ Nr | Date | Topic | Materials | Exercises
 #2 |  1.3. | Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf)| [lab02](../../tree/master/labs/ex02/)
 #3 |  8.3. | Projected Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf)| [lab03](../../tree/master/labs/ex03/)
 #4 | 15.3. | Projected, Proximal and Subgradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf)| [lab04](../../tree/master/labs/ex04/)
-#5 | 22.3. | Subgradient, Stochastic Gradient Descent | | 
+#5 | 22.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf)| [lab05](../../tree/master/labs/ex05/)
 #6 | 29.3. | Non-Convex Optimization | | 
 #7 |  5.4. | Newton's Method | | 
 #8 | 12.4. | Quasi-Newton methods | | 
