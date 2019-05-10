@@ -42,7 +42,7 @@ Nr | Date | Topic | Materials | Exercises
 . | 19.4. | `easter vacation` | | -
 . | 26.4. | `easter vacation` | | -
 #9 |  3.5. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture09.pdf)| [lab09](../../tree/master/labs/ex09/)
-#10 | 10.5. | Coordinate Descent | | 
+#10 | 10.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture10.pdf)| [lab10](../../tree/master/labs/ex10/)
 #11 | 17.5. | Duality, Gradient-free methods, Applications | | 
 #12 | 24.5. | Opt for ML in Practice | | 
 #13 | 31.5. | `Mini-Project week` | | 
