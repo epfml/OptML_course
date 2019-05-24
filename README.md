@@ -44,7 +44,7 @@ Nr | Date | Topic | Materials | Exercises
 #9 |  3.5. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture09.pdf)| [lab09](../../tree/master/labs/ex09/)
 #10 | 10.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture10.pdf)| [lab10](../../tree/master/labs/ex10/)
 #11 | 17.5. | Duality, Gradient-free methods, Applications | notes, [slides](../../raw/master/slides/lecture11.pdf)| [lab11](../../tree/master/labs/ex11/)
-#12 | 24.5. | Opt for ML in Practice | | 
+#12 | 24.5. | Opt for ML in Practice | notes, [slides](../../raw/master/slides/lecture12.pdf)
 #13 | 31.5. | `Mini-Project week` | | 
 
 ### Exercises:
