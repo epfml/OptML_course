@@ -2,7 +2,7 @@
 
 [Official coursebook information](http://edu.epfl.ch/coursebook/en/optimization-for-machine-learning-CS-439)
 
-`Lectures:` Fri 13:15-15:00 in [BC01](https://plan.epfl.ch/?room==BC%2001)
+`Lectures:` Fri 13:15-15:00 in [CO2](https://plan.epfl.ch/?room=CO2)
 
 `Exercises:` Fri 15:15-17:00 in [BC01](https://plan.epfl.ch/?room==BC%2001)
 
@@ -14,7 +14,6 @@ This course teaches an overview of modern mathematical optimization methods, for
    - Anastasia Koloskova [anastasia.koloskova@epfl.ch](mailto:anastasia.koloskova@epfl.ch)
    - Sai Praneeth Karimireddy [sai.karimireddy@epfl.ch](mailto:prakhar.gupta@epfl.ch)
    - Thijs Vogels [thijs.vogels@epfl.ch](mailto:thijs.vogels@epfl.ch)
-   - Nicolas El Maalouly [nicolas.elmaalouly@epfl.ch](mailto:nicolas.elmaalouly@epfl.ch)
 
 `Contents:`
 
@@ -54,11 +53,11 @@ The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical 
 An optional `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is optional and done in groups of 2-3 students. If students decide to do the project, and if their project grade exceeds their exam grade, it will count 20% to the final grade. Project reports (3 page PDF) are due May 31st. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
-Final written exam in exam session, 20.06.2019 from 08h15 to 11h15 (PO01 Polydôme). _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
-For practice: [exam of 2018](../../raw/master/exams/exam2018.pdf).
+Final written exam in exam session, summer 2020. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
+For practice: [exam of 2019](../../raw/master/exams/exam2019.pdf), [exam of 2018](../../raw/master/exams/exam2018.pdf).
 
 ### Links to related courses and materials 
- - [CMU 10-725](http://www.cs.cmu.edu/~pradeepr/convexopt/)
+ - [CMU 10-725](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
  - [Berkeley EE-227C](https://ee227c.github.io/)
  
 ### Recommended Books
