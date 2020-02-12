@@ -54,7 +54,7 @@ An optional `mini-project` will focus on the practical implementation: Here we e
 
 ### Assessment:
 Final written exam in exam session, summer 2020. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
-For practice: [exam of 2019](../../raw/master/exams/exam2019.pdf), [exam of 2018](../../raw/master/exams/exam2018.pdf).
+For practice: [exam 2019](../../raw/master/exams/exam2019.pdf), [solutions 2019](../../raw/master/exams/exam2019solutions.pdf), [exam 2018](../../raw/master/exams/exam2018.pdf).
 
 ### Links to related courses and materials 
  - [CMU 10-725](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
