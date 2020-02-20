@@ -88,7 +88,7 @@ Our `npprimer.ipynb` notebook as part of the first lab has some useful commands 
 
 We recommend [this list of small exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) to get started with NumPy arrays etc.
 
-If you are familiar with Matlab, a good starting point is [this guide](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html). Be careful that we will use way more the `array` structure compared to the `matrix` structure.
+If you are familiar with Matlab, a good starting point is [this guide](http://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html). Be careful that we will use way more the `array` structure compared to the `matrix` structure.
 
 A good and probably more complete reference is [this one](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf).
 
@@ -104,4 +104,5 @@ And of course, as a third alternative, you can always use a [decent text editor]
 
 ## Additional References
 
-[A good Python and NumPy Tutorial from Stanford.](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) 
+[A good Python and NumPy Tutorial from CS231n, Stanford.](http://cs231n.github.io/python-numpy-tutorial/)
+
