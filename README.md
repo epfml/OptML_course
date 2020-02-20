@@ -33,25 +33,25 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 Nr | Date | Topic | Materials | Exercises
 --- | --- | --- | --- | ---
 #1 | 21.2. | Introduction, Convexity | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf)| [lab01](../../tree/master/labs/ex01/)
-#2 | 28.2. | Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf)| [lab02](../../tree/master/labs/ex02/)
-#3 |  6.3. | Projected Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf)| [lab03](../../tree/master/labs/ex03/)
-#4 | 13.3. | Projected, Proximal and Subgradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf)| [lab04](../../tree/master/labs/ex04/)
-#5 | 20.3. | Subgradient, Stochastic Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf)| [lab05](../../tree/master/labs/ex05/)
-#6 | 27.3. | SGD, Non-Convex Optimization | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf)| [lab06](../../tree/master/labs/ex06/)
-#7 |  3.4. | Non-Convex Opt., Newton's Method | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf)| [lab07](../../tree/master/labs/ex07/)
+#2 | 28.2. | Gradient Descent | 
+#3 |  6.3. | Projected Gradient Descent | 
+#4 | 13.3. | Projected, Proximal and Subgradient Descent | 
+#5 | 20.3. | Subgradient, Stochastic Gradient Descent | 
+#6 | 27.3. | SGD, Non-Convex Optimization | 
+#7 |  3.4. | Non-Convex Opt., Newton's Method | 
 . | 10.4. | `easter vacation` | | -
 . | 17.4. | `easter vacation` | | -
-#8 | 24.4. | Newton & Quasi-Newton | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf)| [lab08](../../tree/master/labs/ex08/)
-#9 |  1.5. | Frank-Wolfe | notes, [slides](../../raw/master/slides/lecture09.pdf)| [lab09](../../tree/master/labs/ex09/)
-#10 | 8.5. | Coordinate Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture10.pdf)| [lab10](../../tree/master/labs/ex10/)
-#11 | 15.5. | Duality, Gradient-free methods, Applications | notes, [slides](../../raw/master/slides/lecture11.pdf)| [lab11](../../tree/master/labs/ex11/)
-#12 | 22.5. | Opt for ML in Practice | notes, [slides](../../raw/master/slides/lecture12.pdf)
+#8 | 24.4. | Newton & Quasi-Newton | 
+#9 |  1.5. | Frank-Wolfe | 
+#10 | 8.5. | Coordinate Descent | 
+#11 | 15.5. | Duality, Gradient-free methods, Applications | 
+#12 | 22.5. | Opt for ML in Practice | 
 #13 | 29.5. | `Mini-Project week` | | 
 
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to theory exercises are available [here](../../tree/master/lecture_notes), and for practicals in the lab folder.
 
-### Mini-project:
+### Project:
 A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 20% to the final grade. Project reports (3 page PDF) are due May 29th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
