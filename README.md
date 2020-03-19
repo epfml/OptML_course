@@ -36,7 +36,7 @@ Nr | Date | Topic | Materials | Exercises
 #2 | 28.2. | Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf)| [lab02](../../tree/master/labs/ex02/)
 #3 |  6.3. | Projected Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf)| [lab03](../../tree/master/labs/ex03/)
 #4 | 13.3. | Proximal and Subgradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf)| [lab03](../../tree/master/labs/ex04/)
-#5 | 20.3. | Subgradient, Stochastic Gradient Descent | 
+#5 | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf)| 
 #6 | 27.3. | SGD, Non-Convex Optimization | 
 #7 |  3.4. | Non-Convex Opt., Newton's Method | 
 . | 10.4. | `easter vacation` | | -
