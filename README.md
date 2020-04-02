@@ -4,7 +4,7 @@
 
 `Lectures:` Fri 13:15-15:00 in [CO2](https://plan.epfl.ch/?room=CO2)
 
-`Exercises:` Fri 15:15-17:00 in [BC01](https://plan.epfl.ch/?room==BC%2001)
+`Exercises:` Fri 15:15-17:00 in [BC01](https://plan.epfl.ch/?room==BC%2001), [Zoom](https://epfl.zoom.us/j/507157305) 
 
 This course teaches an overview of modern mathematical optimization methods, for applications in machine learning and data science. In particular, scalability of algorithms to large datasets will be discussed in theory and in implementation.
 
@@ -38,7 +38,7 @@ Nr | Date | Topic | Materials | Exercises
 #4 | 13.3. | Proximal and Subgradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf)| [lab04](../../tree/master/labs/ex04/)
 #5 | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf)| [lab05](../../tree/master/labs/ex05/) 
 #6 | 27.3. | Non-Convex Optimization, Accelerated Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf)| [lab06](../../tree/master/labs/ex06/) 
-#7 |  3.4. | Newton's Method & Quasi-Newton | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf)| lab07 
+#7 |  3.4. | Newton's Method & Quasi-Newton | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf)| [lab07](../../tree/master/labs/ex07/)  
 . | 10.4. | `easter vacation` | | -
 . | 17.4. | `easter vacation` | | -
 #8 | 24.4. | Frank-Wolfe | 
