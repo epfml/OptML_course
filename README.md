@@ -41,7 +41,7 @@ Nr | Date | Topic | Materials | Exercises
 #7 |  3.4. | Newton's Method & Quasi-Newton | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf)| [lab07](../../tree/master/labs/ex07/)  
 . | 10.4. | `easter vacation` | | -
 . | 17.4. | `easter vacation` | | -
-#8 | 24.4. | Frank-Wolfe | 
+#8 | 24.4. | Frank-Wolfe | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf)| [lab08](../../tree/master/labs/ex08/)  
 #9 |  1.5. | Coordinate Descent | 
 #10 | 8.5. | Duality, Gradient-free methods | 
 #11 | 15.5. | Applications | 
