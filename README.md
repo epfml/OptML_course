@@ -55,7 +55,7 @@ The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical 
 A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 20% to the final grade. Project reports (3 page PDF) are due June 12th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
-Final written exam in exam session in August, Tuesday 11.08.2020 from 08h15 to 11h15 in rooms CE1515, CE2. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
+Final written exam in exam session in August, Tuesday 11.08.2020 from 08h15 to 11h15 in the SwissTech Convention Center. _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
 For practice: [exam 2019](../../raw/master/exams/exam2019.pdf), [solutions 2019](../../raw/master/exams/exam2019solutions.pdf), [exam 2018](../../raw/master/exams/exam2018.pdf).
 
 ### Links to related courses and materials 
