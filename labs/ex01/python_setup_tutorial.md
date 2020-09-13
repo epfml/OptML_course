@@ -5,7 +5,7 @@ In order to implement the algorithms seen in class and work on the projects, we'
 ## The environment
 
 ### Python distribution: Anaconda
-We will be using the [Anaconda](https://www.continuum.io/) distribution to run Python 3, as it is easy to install and comes with most packages we will need. To install Anaconda, go to [the download page](https://www.continuum.io/downloads) and get the Python installer for your OS - make sure to use the newer version 3.x, not 2.x. Follow the instructions of the installer and you're done.
+We will be using the [Anaconda](https://www.anaconda.com/) distribution to run Python 3, as it is easy to install and comes with most packages we will need. To install Anaconda, go to [the download page](https://www.anaconda.com/distribution/) and get the Python installer for your OS - make sure to use the newer version 3.x, not 2.x. Follow the instructions of the installer and you're done.
 > **Warning!** The installer will ask you if you want to add Anaconda to your path. Your default answer should be yes, unless you have specific reasons not to want this.
 
 
@@ -24,7 +24,7 @@ For additional resources on how the notebook system works, we recommend
 
 If you want to see some examples already, feel free to take a look at
 
-* The introductory notebooks available at [Try Jupiter](https://try.jupyter.org/). It spawns an instance of the Jupyter Notebook, which won't save any of your changes.
+* The introductory notebooks available at [Try Jupyter](https://try.jupyter.org/). It spawns an instance of the Jupyter Notebook, which won't save any of your changes.
   *Note: it might not be available if their server is under too much load.*
 * [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks) by the Ipython Notebook team
 
@@ -52,7 +52,7 @@ There are a few handy commands that you should start every notebook with
 * Running code
 	* `Enter` enters the edition mode of the currently selected cell.
 	* `Shift-Enter` runs the current cell and goes to the next one.
-	* `Ctrl-Enter` runs the currect cell and leave it selected.
+	* `Ctrl-Enter` runs the current cell and leave it selected.
 * Autocompletion
   * `Tab` pops up the Autocompletion when you are in the middle of writing a function call/class name and shows the arguments of the function being called when used after an opening parenthesis.
   * `Shift-Tab` pops up the help/documentation of the function its used on
@@ -75,7 +75,7 @@ For a nice introduction to Python, you should take a look at [the Python tutoria
 * Section 10 on the standard library and [the standard library index](https://docs.python.org/3/library/index.html) are worth a quick scroll to see what's available.
 * Do not bother with Sections 11-16 for now.
 
-Here are some additionnal resources on Python:
+Here are some additional resources on Python:
 
 * [Python's standard library reference](https://docs.python.org/3/library/index.html)
 * [Debugging and profiling](https://docs.python.org/3/library/debug.html)
@@ -88,7 +88,7 @@ Our `npprimer.ipynb` notebook as part of the first lab has some useful commands 
 
 We recommend [this list of small exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) to get started with NumPy arrays etc.
 
-If you are familiar with Matlab, a good starting point is [this guide](http://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html). Be careful that we will use way more the `array` structure compared to the `matrix` structure.
+If you are familiar with Matlab, a good starting point is [this guide](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html). Be careful that we will use way more the `array` structure compared to the `matrix` structure.
 
 A good and probably more complete reference is [this one](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf).
 
@@ -104,5 +104,4 @@ And of course, as a third alternative, you can always use a [decent text editor]
 
 ## Additional References
 
-[A good Python and NumPy Tutorial from CS231n, Stanford.](http://cs231n.github.io/python-numpy-tutorial/)
-
+[A good Python and NumPy Tutorial from Stanford.](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) 
