@@ -86,9 +86,9 @@ Here are some additional resources on Python:
 
 Our `npprimer.ipynb` notebook as part of the first lab has some useful commands and exercises to help you get started with NumPy.
 
-We recommend [this list of small exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/) to get started with NumPy arrays etc.
+We recommend [this list of small exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) to get started with NumPy arrays etc.
 
-If you are familiar with Matlab, a good starting point is [this guide](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html). Be careful that we will use way more the `array` structure compared to the `matrix` structure.
+If you are familiar with Matlab, a good starting point is [this guide](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html). Note that we will use the `array` structure much more often than the `matrix` structure.
 
 A good and probably more complete reference is [this one](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf).
 
@@ -97,7 +97,7 @@ A good and probably more complete reference is [this one](http://www.engr.ucsb.e
 
 > **Other shell.** If you are using another shell (e.g. zsh on Mac OSX), after installing Anaconda you still need to add the installed software to your path, that is to add it to the correct profile of your shell. To do so, run the following commands in your terminal ` touch ~/.bash_profile; open ~/.bash_profile`. It will open your bash profile where you'll see the line that was added by the Python installer. Copy it. Then ` touch ~/.zshrc; open ~/.zshrc`, that will open the profile for zsh, you can paste the line at the bottom of the file.
 
-> **Alternative Python IDEs.** While we recommend plain Jupyter Notebooks, if you are more comfortable using a more traditional IDE, you can give [**PyCharm**](https://www.jetbrains.com/pycharm/) a try. Your EPFL email gives you access to the free educational version. You should keep this option in mind if you need a full fledged debugger to find a nasty bug.
+> **Alternative Python IDEs.** While we recommend plain Jupyter Notebooks, if you are more comfortable using a more traditional IDE, you can give [**PyCharm**](https://www.jetbrains.com/pycharm/) a try. Your EPFL email gives you access to the free educational version. You should keep this option in mind if you need a full-fledged debugger to find a nasty bug.
 
 And of course, as a third alternative, you can always use a [decent text editor](https://www.sublimetext.com/) and run your code from the console or any plugin. Keep in mind that the TAs might not be able to help you with your setup if you go down this path.
 
