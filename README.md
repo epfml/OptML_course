@@ -48,8 +48,11 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | #9  | 7.5.  | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) |
 | #10 | 14.5. | Duality, Gradient-free, adaptive methods              | notes, [slides](../../raw/master/slides/lecture10.pdf)                                                     | [lab10](../../tree/master/labs/ex10/) |
 | #11 | 28.5. | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture11.pdf)                                                     | Q&A                                   |
-| #12 | 4.6.  | Opt for ML in Practice                                | notes, slides                                                                                              | Q&A Projects                          |
+| #12 | 4.6.  | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture12.pdf)                                                     | Q&A Projects                          |
 | #13 | 11.4. | `Mini-Project week`                                   |                                                                                                            |
+
+### Videos:
+[Playlist on youtube](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
 
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to theory exercises are available [here](../../tree/master/lecture_notes), and for practicals in the lab folder.
