@@ -62,7 +62,7 @@ A `mini-project` will focus on the practical implementation: Here we encourage s
 
 ### Assessment:
 Final written exam in exam session on Thursday 08.07.2021 from 08h15 to 11h15 (CE1, PO01). _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used), either handwritten or 11 point minimum font size._
-For practice: [exam 2019](../../raw/master/exams/exam2019.pdf), [solutions 2019](../../raw/master/exams/exam2019solutions.pdf), [exam 2018](../../raw/master/exams/exam2018.pdf), [solutions 2018](../../raw/master/exams/exam2018solutions.pdf).
+For practice: [exam 2020](../../raw/master/exams/exam2020.pdf), [solutions 2020](../../raw/master/exams/exam2020solutions.pdf), [exam 2019](../../raw/master/exams/exam2019.pdf), [solutions 2019](../../raw/master/exams/exam2019solutions.pdf), [exam 2018](../../raw/master/exams/exam2018.pdf), [solutions 2018](../../raw/master/exams/exam2018solutions.pdf).
 
 ### Links to related courses and materials 
  - [CMU 10-725](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
