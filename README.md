@@ -2,9 +2,7 @@
 
 [Official coursebook information](http://edu.epfl.ch/coursebook/en/optimization-for-machine-learning-CS-439)
 
-`Lectures:` Posted every monday on youtube
-
-`Q&A:` Fri 13:15-15:00 in [CO2](https://plan.epfl.ch/?room==CO%202)
+`Lectures:` Fri 13:15-15:00 in [CO2](https://plan.epfl.ch/?room==CO%202)
 
 `Exercises:` Fri 15:15-17:00 in [BC01](https://plan.epfl.ch/?room==BC%2001)
 
