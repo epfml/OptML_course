@@ -13,10 +13,10 @@ This course teaches an overview of modern mathematical optimization methods, for
    - Martin Jaggi [martin.jaggi@epfl.ch](mailto:martin.jaggi@epfl.ch)
    - Nicolas Flammarion [nicolas.flammarion@epfl.ch](mailto:nicolas.flammarion@epfl.ch)
  - Assistants:
-   - Jean-Baptiste Cordonnier [jean-baptiste.cordonnier@epfl.ch](mailto:jean-baptiste.cordonnier@epfl.ch)
-   - Lie He [lie.he@epfl.ch](mailto:lie.he@epfl.ch)
+   - Aditya Varre [aditya.varre@epfl.ch](mailto:aditya.varre@epfl.ch)
+   - Amirkeivan Mohtashami [amirkeivan.mohtashami@epfl.ch](mailto:amirkeivan.mohtashami@epfl.ch)
+   - Matteo Pagliardini [matteo.pagliardini@epfl.ch](mailto:matteo.pagliardini@epfl.ch)
    - Scott Pesme [scott.pesme@epfl.ch](mailto:scott.pesme@epfl.ch)
-   - Thijs Vogels [thijs.vogels@epfl.ch](mailto:thijs.vogels@epfl.ch)
 
 `Contents:`
 
