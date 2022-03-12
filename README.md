@@ -45,9 +45,9 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | #8  | 29.4. | Frank-Wolfe                                           | notes,                                                                                                     |                                       |
 | #9  | 6.5.  | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
 | #10 | 13.5. | Duality, Gradient-free, adaptive methods              | notes,                                                                                                     |                                       |
-| #11 | 27.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A                                   |
-| #12 | 3.6.  | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
-| #13 | 10.6. | `Mini-Project week`                                   |                                                                                                            |
+| #11 | 20.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A                                   |
+| #12 | 27.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
+| #13 | 3.6.  | `Mini-Project week`                                   |                                                                                                            |
 
 ### Videos:
 [Playlist on youtube of last year's videos](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
