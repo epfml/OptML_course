@@ -50,7 +50,8 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | #13 | 3.6.  | `Mini-Project week`                                   |                                                                                                            |
 
 ### Videos:
-[Playlist on youtube of last year's videos](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
+- [Public playlist of 2021 videos (youtube)](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
+- [Playlist of current 2022 videos (EPFL internal)](https://tube.switch.ch/switchcast/epfl.ch/series/4fab28ac-1c8f-4632-8d01-e128746b7a1d)
 
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to theory exercises are available [here](../../tree/master/lecture_notes), and for practicals in the lab folder.
