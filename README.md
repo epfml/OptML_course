@@ -33,21 +33,21 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Program:
 | Nr  | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | --- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| #1  | 25.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | [lab01](../../tree/master/labs/ex01/) |
-| #2  | 4.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab02](../../tree/master/labs/ex02/) |
-| #3  | 11.3. | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab03](../../tree/master/labs/ex03/) |
-| #4  | 18.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/) |
-| #5  | 25.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/) |
-| #6  | 1.4.  | Non-Convex Optimization, Accelerated Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) |
-| #7  | 8.4.  | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
-| .   | 15.4. | `easter vacation`                                     |                                                                                                            | -                                     |
-| .   | 22.4. | `easter vacation`                                     |                                                                                                            | -                                     |
-| #8  | 29.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
-| #9  | 6.5.  | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
-| #10 | 13.5. | Duality, Gradient-free, adaptive methods              | notes,                                                                                                     |                                       |
-| #11 | 20.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A                                   |
-| #12 | 27.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
-| #13 | 3.6.  | `Mini-Project week`                                   |                                                                                                            |
+| 1  | 25.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | [lab01](../../tree/master/labs/ex01/) |
+| 2  | 4.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab02](../../tree/master/labs/ex02/) |
+| 3  | 11.3. | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab03](../../tree/master/labs/ex03/) |
+| 4  | 18.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/) |
+| 5  | 25.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/) |
+| 6  | 1.4.  | Non-Convex Optimization, Accelerated Gradient Descent | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) |
+| 7  | 8.4.  | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
+| .  | 15.4. | `easter vacation`                                     |                                                                                                            | -                                     |
+| .  | 22.4. | `easter vacation`                                     |                                                                                                            | -                                     |
+| 8  | 29.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
+| 9  | 6.5.  | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf),                                                 |                                       |
+| 10 | 13.5. | Duality, Gradient-free, adaptive methods              | notes,                                                                                                     |                                       |
+| 11 | 20.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A                                   |
+| 12 | 27.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
+| 13 | 3.6.  | `Mini-Project week`                                   |                                                                                                            |
 
 ### Videos:
 - [Public playlist of 2021 videos (youtube)](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
