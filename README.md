@@ -46,8 +46,8 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 9  | 6.5.  | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) |
 | 10 | 13.5. | Accelerated Gradient, Gradient-free, adaptive methods              | notes,  [slides](../../raw/master/slides/lecture10.pdf)                                                                                                   | [lab10](../../tree/master/labs/ex10/) |
 | 11 | 20.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A                                   |
-| 12 | 27.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
-| 13 | 3.6.  | `Mini-Project week`                                   |                                                                                                            |
+| 12 | 27.5. | `Mini-Project week`                                   |                                                                                                            |
+| 13 | 3.6.  | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
 
 ### Videos:
 - [Public playlist of 2021 videos (youtube)](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
