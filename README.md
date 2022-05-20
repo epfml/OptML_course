@@ -44,9 +44,9 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | .  | 22.4. | `easter vacation`                                     |                                                                                                            | -                                     |
 | 8  | 29.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) |
 | 9  | 6.5.  | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) |
-| 10 | 13.5. | Accelerated Gradient, Gradient-free, adaptive methods              | notes,  [slides](../../raw/master/slides/lecture10.pdf)                                                                                                   | [lab10](../../tree/master/labs/ex10/) |
-| 11 | 20.5. | Opt for ML in Practice                                | notes,                                                                                                     | Q&A                                   |
-| 12 | 27.5. | `Mini-Project week`                                   |                                                                                                            |
+| 10 | 13.5. | Accelerated Gradient, Gradient-free, adaptive methods              | notes,  [slides](../../raw/master/slides/lecture10.pdf)                                                         | [lab10](../../tree/master/labs/ex10/) |
+| 11 | 20.5. | Opt for ML in Practice                                | notes,  [slides](../../raw/master/slides/lecture10.pdf)                                                                     | Q&A                                   |
+| 12 | 27.5. | `Mini-Project week`                                   |                                                                                                            | -
 | 13 | 3.6.  | Opt for ML in Practice                                | notes,                                                                                                     | Q&A Projects                          |
 
 ### Videos:
