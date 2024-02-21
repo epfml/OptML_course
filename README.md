@@ -34,34 +34,35 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | Nr | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | 1  | 23.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | [lab01](../../tree/master/labs/ex01/) |
-| 2  | 1.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab02](../../tree/master/labs/ex02/) |
-| 3  | 8.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab03](../../tree/master/labs/ex03/) |
-| 4  | 15.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab04](../../tree/master/labs/ex04/) |
-| 5  | 22.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab05](../../tree/master/labs/ex05/) |
+| 2  | 1.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab02 |
+| 3  | 8.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab03 |
+| 4  | 15.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab04 |
+| 5  | 22.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab05 |
 | .  | 29.3. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 5.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 6  | 12.4. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab06](../../tree/master/labs/ex06/) |
-| 7  | 19.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab07](../../tree/master/labs/ex07/) |
-| 8  | 26.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf) | [lab08](../../tree/master/labs/ex08/) |
-| 9  |  3.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab09](../../tree/master/labs/ex09/) |
+| 6  | 12.4. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab06 |
+| 7  | 19.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab07 |
+| 8  | 26.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab08 |
+| 9  |  3.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab09 |
 | 10 | 10.5. | `Mini-Project week`                                   |                                                                                                            | -
-| 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes,  [slides](../../raw/master/slides/lecture10.pdf)                                                    | [lab10](../../tree/master/labs/ex10/) |
-| 12 | 24.5. | Opt for ML in Practice                                | notes,  [slides](../../raw/master/slides/lecture11.pdf)                                                    | Q&A                                   |
-| 13 | 31.5. | Opt for ML in Practice                                | notes,  [slides](../../raw/master/slides/lecture12.pdf)                                                    | Q&A Projects                          |
+| 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes,  slides                                                    | lab10 |
+| 12 | 24.5. | Opt for ML in Practice                                | notes,  slides                                                    | Q&A                                   |
+| 13 | 31.5. | Opt for ML in Practice                                | notes, slides                                                     | Q&A Projects                          |
 
 
 ### Videos:
 - [Public playlist of 2021 videos (youtube)](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
 - [Playlist of 2022 videos (EPFL internal)](https://tube.switch.ch/switchcast/epfl.ch/series/4fab28ac-1c8f-4632-8d01-e128746b7a1d)
 - [Playlist of 2023 videos (EPFL internal)](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+learning/31980)
+
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to exercises are available in the lab folder.
 
 ### Project:
-A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 16th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
+A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 14th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
-Final written exam on Monday 03.07.2023 from 15h15 to 18h15 (CO2, CO3). _Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used)._
+Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used)._
 For practice: 
 - exams [2023](../../raw/master/exams/exam2023.pdf), [2022](../../raw/master/exams/exam2022.pdf), [2021](../../raw/master/exams/exam2021.pdf), [2020](../../raw/master/exams/exam2020.pdf), [2019](../../raw/master/exams/exam2019.pdf), [2018](../../raw/master/exams/exam2018.pdf)
 - solutions [2023](../../raw/master/exams/exam2023solutions.pdf), [2022](../../raw/master/exams/exam2022solutions.pdf), [2021](../../raw/master/exams/exam2021solutions.pdf), [2020](../../raw/master/exams/exam2020solutions.pdf), [2019](../../raw/master/exams/exam2019solutions.pdf), [2018](../../raw/master/exams/exam2018solutions.pdf).
