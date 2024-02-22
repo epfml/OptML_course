@@ -33,20 +33,20 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Program:
 | Nr | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1  | 23.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | lab01 |
-| 2  | 1.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab02 |
-| 3  | 8.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab03 |
-| 4  | 15.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab04 |
-| 5  | 22.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab05 |
+| 1  | 23.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | lab00 |
+| 2  | 1.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab01 |
+| 3  | 8.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab02 |
+| 4  | 15.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab03 |
+| 5  | 22.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab04 |
 | .  | 29.3. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 5.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 6  | 12.4. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab06 |
-| 7  | 19.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab07 |
-| 8  | 26.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab08 |
-| 9  |  3.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab09 |
+| 6  | 12.4. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab05 |
+| 7  | 19.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab06 |
+| 8  | 26.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab07 |
+| 9  |  3.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab08 |
 | 10 | 10.5. | `Mini-Project week`                                   |                                                                                                            | -
-| 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes,  slides                                                    | lab10 |
-| 12 | 24.5. | Opt for ML in Practice                                | notes,  slides                                                    | Q&A                                   |
+| 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes,  slides                                                    | lab09 |
+| 12 | 24.5. | Opt for ML in Practice                                | notes,  slides                                                    | lab10                                  |
 | 13 | 31.5. | Opt for ML in Practice                                | notes, slides                                                     | Q&A Projects                          |
 
 
