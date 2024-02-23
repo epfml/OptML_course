@@ -53,7 +53,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Videos:
 - [Public playlist of 2021 videos (youtube)](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
 - [Playlist of 2022 videos (EPFL internal)](https://tube.switch.ch/switchcast/epfl.ch/series/4fab28ac-1c8f-4632-8d01-e128746b7a1d)
-- [Playlist of 2023 videos (EPFL internal)](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+learning/31980)
+- [Playlist of 2024 videos (EPFL internal)](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+learning/31980)
 
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to exercises are available in the lab folder.
