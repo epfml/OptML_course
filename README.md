@@ -35,7 +35,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | 1  | 23.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | [lab00](../../raw/master/labs/ex00/exercise00.pdf) |
 | 2  | 1.3.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf)  | [lab01](../../raw/master/labs/ex01/exercise01.pdf) |
-| 3  | 8.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | [lab02](../../raw/master/labs/ex02/exercise02.pdf) |
+| 3  | 8.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab02](../../raw/master/labs/ex02/exercise02.pdf) |
 | 4  | 15.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab03 |
 | 5  | 22.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab04 |
 | .  | 29.3. | `easter vacation`                                     |                                                                                                            | -                                     |
