@@ -40,7 +40,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 5  | 22.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab04](../../raw/master/labs/ex04/exercise04.pdf) |
 | .  | 29.3. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 5.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 6  | 12.4. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides |  [lab05](../../raw/master/labs/ex05/exercise05.pdf) |
+| 6  | 12.4. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf) |  [lab05](../../raw/master/labs/ex05/exercise05.pdf) |
 | 7  | 19.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab06 |
 | 8  | 26.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab07 |
 | 9  |  3.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab08 |
