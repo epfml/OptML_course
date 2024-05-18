@@ -45,8 +45,8 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 8  | 26.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf) | [lab07](../../raw/master/labs/ex07/exercise07.pdf) |
 | 9  |  3.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab08](../../raw/master/labs/ex08/exercise08.pdf) |
 | 10 | 10.5. | `Mini-Project week`                                   |                                                                                                            | -
-| 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture10.pdf) | [lab09]|(../../raw/master/labs/ex09/exercise09.pdf)
-| 12 | 24.5. | Opt for ML in Practice                                | notes,  slides                                                    | [lab10]|(../../raw/master/labs/ex10/exercise10.pdf)                                  |
+| 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture10.pdf) | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
+| 12 | 24.5. | Opt for ML in Practice                                | notes,  slides                                                    | [lab10](../../raw/master/labs/ex10/exercise10.pdf)                                  |
 | 13 | 31.5. | Opt for ML in Practice                                | notes, slides                                                     | Q&A Projects                           |
 
 
