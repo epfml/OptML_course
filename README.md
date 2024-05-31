@@ -47,7 +47,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 10 | 10.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
 | 11 | 17.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes, [slides](../../raw/master/slides/lecture10.pdf)                                                     | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
 | 12 | 24.5. | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture11.pdf)                                                     | [lab10](../../raw/master/labs/ex10/exercise10.pdf) |
-| 13 | 31.5. | Opt for ML in Practice                                | notes, slides                                                     | Q&A Projects                           |
+| 13 | 31.5. | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture12.pdf)                                                     | Q&A Projects                          |
 
 
 ### Videos:
@@ -56,6 +56,8 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to exercises are available in the lab folder.
+
+[Discussion forum](https://edstem.org/eu/courses/1204/discussion/) (EPFL internal)
 
 ### Project:
 A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 14th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
