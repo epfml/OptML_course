@@ -46,10 +46,10 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | .  | 18.4. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 25.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
 | 9  |  2.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab08](../../raw/master/labs/ex08/exercise08.pdf) |
-| 10 | 9.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
-| 11 | 16.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes, [slides](../../raw/master/slides/lecture10.pdf)                                                     | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
-| 12 | 23.5. | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture11.pdf)                                                     | [lab10](../../raw/master/labs/ex10/exercise10.pdf) |
-| 13 | 30.5. | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture12.pdf)                                                     | Q&A Projects                          |
+| 10 | 9.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes, [slides](../../raw/master/slides/lecture10.pdf)                                                     | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
+| 11 | 16.5.  | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture11.pdf)                                                     | [lab10](../../raw/master/labs/ex10/exercise10.pdf) | 
+| 12 | 23.5.  | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture12.pdf)                                                     | Q&A Projects                          |
+| 13 | 30.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
 
 
 ### Videos:
