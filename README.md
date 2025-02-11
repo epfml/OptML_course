@@ -10,13 +10,15 @@ This course teaches an overview of modern mathematical optimization methods, for
 
 ### Team
  - Instructors: 
-   - Martin Jaggi [martin.jaggi@epfl.ch](mailto:martin.jaggi@epfl.ch)
    - Nicolas Flammarion [nicolas.flammarion@epfl.ch](mailto:nicolas.flammarion@epfl.ch)
  - Assistants:
    - Aditya Varre [aditya.varre@epfl.ch](mailto:aditya.varre@epfl.ch)
-   - Atli Kosson [atli.kosson@epfl.ch](mailto:atli.kosson@epfl.ch) 
-   - Dongyang Fan [dongyang.fan@epfl.ch](mailto:dongyang.fan@epfl.ch)
    - Oguz Kaan Yüksel [oguz.yuksel@epfl.ch](mailto:oguz.yuksel@epfl.ch)
+   - Thomas Weinberger [thomas.weinberger@epfl.ch](mailto:thomas.weinberger@epfl.ch)
+   - Yitao Xu [yitao.xu@epfl.ch](mailto:yitao.xu@epfl.ch)
+
+ 
+
    
 `Contents:`
 
@@ -63,7 +65,7 @@ The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical 
 A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 14th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
-Session Exam on Monday 01.07.2024 from 15h15 to 18h15 (INM200, INM202). Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used).
+Session Exam. Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used).
 
 For practice: 
 - exams [2023](../../raw/master/exams/exam2023.pdf), [2022](../../raw/master/exams/exam2022.pdf), [2021](../../raw/master/exams/exam2021.pdf), [2020](../../raw/master/exams/exam2020.pdf), [2019](../../raw/master/exams/exam2019.pdf), [2018](../../raw/master/exams/exam2018.pdf)
