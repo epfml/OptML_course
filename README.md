@@ -35,25 +35,25 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Program:
 | Nr | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1  | 21.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture01.pdf) | [lab00](../../raw/master/labs/ex00/exercise00.pdf) |
-| 2  | 28.2.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture02.pdf) | [lab01](../../raw/master/labs/ex01/exercise01.pdf) |
-| 3  | 7.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture03.pdf) | [lab02](../../raw/master/labs/ex02/exercise02.pdf) |
-| 4  | 14.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture04.pdf) | [lab03](../../raw/master/labs/ex03/exercise03.pdf) |
-| 5  | 21.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture05.pdf) | [lab04](../../raw/master/labs/ex04/exercise04.pdf) |
-| 6  | 28.3. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture06.pdf) | [lab05](../../raw/master/labs/ex05/exercise05.pdf) |
-| 7  | 4.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture07.pdf) | [lab06](../../raw/master/labs/ex06/exercise06.pdf) |
-| 8  | 11.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture08.pdf) | [lab07](../../raw/master/labs/ex07/exercise07.pdf) |
+| 1  | 21.2. | Introduction, Convexity                               | notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides| lab00|
+| 2  | 28.2.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides| lab01 |
+| 3  | 7.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab02|
+| 4  | 14.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides| lab03 |
+| 5  | 21.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab04 |
+| 6  | 28.3. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab05 |
+| 7  | 4.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab06 |
+| 8  | 11.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab07 |
 | .  | 18.4. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 25.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 9  |  2.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), [slides](../../raw/master/slides/lecture09.pdf) | [lab08](../../raw/master/labs/ex08/exercise08.pdf) |
-| 10 | 9.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes, [slides](../../raw/master/slides/lecture10.pdf)                                                     | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
-| 11 | 16.5.  | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture11.pdf)                                                     | [lab10](../../raw/master/labs/ex10/exercise10.pdf) | 
-| 12 | 23.5.  | Opt for ML in Practice                                | notes, [slides](../../raw/master/slides/lecture12.pdf)                                                     | Q&A Projects                          |
+| 9  |  2.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab08 |
+| 10 | 9.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes, slides    | lab09|
+| 11 | 16.5.  | Opt for ML in Practice                                | notes, slides                                                    | lab10 | 
+| 12 | 23.5.  | Opt for ML in Practice                                | notes, slides                                                     | Q&A Projects                          |
 | 13 | 30.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
 
 
 ### Videos:
-- [Playlist of 2024 videos (EPFL internal)](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+learning/31980)
+- [Playlist of 2024/2025 videos (EPFL internal)](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+learning/31980)
 - [Public playlist of 2021 videos (youtube)](https://www.youtube.com/playlist?list=PL4O4bXkI-fAeYrsBqTUYn2xMjJAqlFQzX)
 
 ### Exercises:
