@@ -35,22 +35,24 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Program:
 | Nr | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1  | 21.2. | Introduction, Convexity                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides| lab00|
-| 2  | 28.2.  | Gradient Descent                                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides| lab01 |
-| 3  | 7.3.  | Projected Gradient Descent                            | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab02|
-| 4  | 14.3. | Proximal and Subgradient Descent                      | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides| lab03 |
-| 5  | 21.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab04 |
-| 6  | 28.3. | Non-Convex Optimization                               | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab05 |
-| 7  | 4.4. | Newton's Method & Quasi-Newton                        | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab06 |
-| 8  | 11.4. | Coordinate Descent                                    | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab07 |
+| 1  | 21.2. | Introduction, Convexity                               |  slides| lab00|
+| 2  | 28.2.  | Gradient Descent                                      |  slides| lab01 |
+| 3  | 7.3.  | Projected Gradient Descent                            |  slides | lab02|
+| 4  | 14.3. | Proximal and Subgradient Descent                      | slides| lab03 |
+| 5  | 21.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  slides | lab04 |
+| 6  | 28.3. | Non-Convex Optimization                               | slides | lab05 |
+| 7  | 4.4. | Newton's Method & Quasi-Newton                        | slides | lab06 |
+| 8  | 11.4. | Coordinate Descent                                    |  slides | lab07 |
 | .  | 18.4. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 25.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 9  |  2.5. | Frank-Wolfe                                           | [notes](../../raw/master/lecture_notes/lecture-notes.pdf), slides | lab08 |
+| 9  |  2.5. | Frank-Wolfe                                           |  slides | lab08 |
 | 10 | 9.5. | Accelerated Gradient, Gradient-free, adaptive methods | notes, slides    | lab09|
 | 11 | 16.5.  | Opt for ML in Practice                                | notes, slides                                                    | lab10 | 
 | 12 | 23.5.  | Opt for ML in Practice                                | notes, slides                                                     | Q&A Projects                          |
 | 13 | 30.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
 
+### Lecture Notes:
+The course is based on the following [lecture notes](../../raw/master/lecture_notes/lecture-notes.pdf).
 
 ### Videos:
 - [Playlist of 2024/2025 videos (EPFL internal)](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+learning/31980)
