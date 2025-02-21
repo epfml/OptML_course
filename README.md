@@ -60,6 +60,7 @@ The [videos](https://mediaspace.epfl.ch/channel/CS-439+Optimization+for+machine+
 ### Exercises:
 The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical and practical `Python` exercises for the corresponding topic each week (starting week 2). Solutions to exercises are available in the lab folder.
 
+### Forum:
 [Discussion forum](https://edstem.org/eu/courses/2015/discussion/) (EPFL internal)
 
 ### Project:
