@@ -42,7 +42,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 5  | 21.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  [slides](../../raw/master/slides/lecture05.pdf)  | [lab04](../../raw/master/labs/ex04/exercise04.pdf) |
 | 6  | 28.3. | Non-Convex Optimization                               | [slides](../../raw/master/slides/lecture06.pdf)  | [lab05](../../raw/master/labs/ex05/exercise05.pdf) |
 | 7  | 4.4. | Newton's Method & Quasi-Newton                        | [slides](../../raw/master/slides/lecture07.pdf)  | [lab06](../../raw/master/labs/ex06/exercise06.pdf) |
-| 8  | 11.4. | Coordinate Descent                                    |  slides | lab07 |
+| 8  | 11.4. | Coordinate Descent                                    |  [slides](../../raw/master/slides/lecture07.pdf)  | lab07 |
 | .  | 18.4. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 25.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
 | 9  |  2.5. | Frank-Wolfe                                           |  slides | lab08 |
