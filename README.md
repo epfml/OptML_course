@@ -45,7 +45,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 8  | 11.4. | Coordinate Descent                                    |  [slides](../../raw/master/slides/lecture07.pdf)  | lab07 |
 | .  | 18.4. | `easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 25.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 9  |  2.5. | Frank-Wolfe                                           |  slides | [lab08](../../raw/master/labs/ex06/exercise08.pdf) |
+| 9  |  2.5. | Frank-Wolfe                                           |  slides | [lab08](../../raw/master/labs/ex08/exercise08.pdf) |
 | 10 | 9.5. | Accelerated Gradient, Gradient-free, adaptive methods |  slides    | lab09|
 | 11 | 16.5.  | Opt for ML in Practice                                |  slides                                                    | lab10 | 
 | 12 | 23.5.  | Opt for ML in Practice                                |  slides                                                     | Q&A Projects                          |
