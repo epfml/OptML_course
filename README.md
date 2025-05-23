@@ -48,7 +48,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 9  |  2.5. | Frank-Wolfe                                           |  [slides](../../raw/master/slides/lecture09.pdf)  | [lab08](../../raw/master/labs/ex08/exercise08.pdf) |
 | 10 | 9.5. | Lower Bounds and Accelerated Gradient Descent |   [slides](../../raw/master/slides/lecture10.pdf)    | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
 | 11 | 16.5.  |  Gradient free and adaptive methods                                |    [slides](../../raw/master/slides/lecture11.pdf)                                                | [lab10](../../raw/master/labs/ex10/exercise10.pdf) | 
-| 12 | 23.5.  | Optimization for Large Language Models (LLMs) (Guest lecture from the SwissAI LLMs team)                                |  slides                                                     | Q&A Projects                          |
+| 12 | 23.5.  | Optimization for Large Language Models (LLMs) (Guest lecture from the SwissAI LLMs team)                                |  [slides](../../raw/master/slides/lecture12.pdf)                                                      | Q&A Projects                          |
 | 13 | 30.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
 
 ### Lecture Notes:
