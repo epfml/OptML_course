@@ -14,6 +14,9 @@ This course teaches an overview of modern mathematical optimization methods, for
    - Nicolas Flammarion [nicolas.flammarion@epfl.ch](mailto:nicolas.flammarion@epfl.ch)
  - Assistants:
    - Yitao Xu [yitao.xu@epfl.ch](mailto:yitao.xu@epfl.ch)
+   - 
+   - 
+   - 
 
  
 
@@ -43,9 +46,9 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | .  | 10.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
 | 9  |  17.4. | Frank-Wolfe                                           |  -   | -  |
 | 7  | 24.4. | Newton's Method & Quasi-Newton                        | -  | -   |
-| 8  | 1.5. | Coordinate Descent                                    |  -   -   |
+| 8  | 1.5. | Coordinate Descent                                    |  -    |
 | 10 | 8.5. | Lower Bounds and Accelerated Gradient Descent |   -  | -  |
-| 11 | 15.5.  | Q & A Projects                                 |    -                                                  | -   | 
+| 11 | 15.5.  | Q & A Projects (Ascension Day Bridge Day)                                 |    -                                                  | -   | 
 | 12 | 22.5.  | Gradient free and adaptive methods                           |  -                                                       | -                            |
 | 13 | 29.5.  | -                           |  -                                                       | -                            |
 
