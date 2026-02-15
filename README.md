@@ -10,11 +10,9 @@ This course teaches an overview of modern mathematical optimization methods, for
 
 ### Team
  - Instructors: 
+   - Martin Jaggi [martin.jaggi@epfl.ch](mailto:martin.jaggi@epfl.ch)
    - Nicolas Flammarion [nicolas.flammarion@epfl.ch](mailto:nicolas.flammarion@epfl.ch)
  - Assistants:
-   - Aditya Varre [aditya.varre@epfl.ch](mailto:aditya.varre@epfl.ch)
-   - Oguz Kaan Yüksel [oguz.yuksel@epfl.ch](mailto:oguz.yuksel@epfl.ch)
-   - Thomas Weinberger [thomas.weinberger@epfl.ch](mailto:thomas.weinberger@epfl.ch)
    - Yitao Xu [yitao.xu@epfl.ch](mailto:yitao.xu@epfl.ch)
 
  
@@ -35,21 +33,21 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Program:
 | Nr | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1  | 21.2. | Introduction, Convexity                               |  [slides](../../raw/master/slides/lecture01.pdf)| [lab00](../../raw/master/labs/ex00/exercise00.pdf)|
-| 2  | 28.2.  | Gradient Descent                                      |  [slides](../../raw/master/slides/lecture02.pdf)| [lab01](../../raw/master/labs/ex01/exercise01.pdf) |
-| 3  | 7.3.  | Projected Gradient Descent                            |   [slides](../../raw/master/slides/lecture03.pdf) | [lab02](../../raw/master/labs/ex02/exercise02.pdf)|
-| 4  | 14.3. | Proximal and Subgradient Descent                      |  [slides](../../raw/master/slides/lecture04.pdf) |  [lab03](../../raw/master/labs/ex03/exercise03.pdf) |
-| 5  | 21.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  [slides](../../raw/master/slides/lecture05.pdf)  | [lab04](../../raw/master/labs/ex04/exercise04.pdf) |
-| 6  | 28.3. | Non-Convex Optimization                               | [slides](../../raw/master/slides/lecture06.pdf)  | [lab05](../../raw/master/labs/ex05/exercise05.pdf) |
-| 7  | 4.4. | Newton's Method & Quasi-Newton                        | [slides](../../raw/master/slides/lecture07.pdf)  | [lab06](../../raw/master/labs/ex06/exercise06.pdf) |
-| 8  | 11.4. | Coordinate Descent                                    |  [slides](../../raw/master/slides/lecture08.pdf)  | lab07 |
-| .  | 18.4. | `easter vacation`                                     |                                                                                                            | -                                     |
-| .  | 25.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
-| 9  |  2.5. | Frank-Wolfe                                           |  [slides](../../raw/master/slides/lecture09.pdf)  | [lab08](../../raw/master/labs/ex08/exercise08.pdf) |
-| 10 | 9.5. | Lower Bounds and Accelerated Gradient Descent |   [slides](../../raw/master/slides/lecture10.pdf)    | [lab09](../../raw/master/labs/ex09/exercise09.pdf) |
-| 11 | 16.5.  |  Gradient free and adaptive methods                                |    [slides](../../raw/master/slides/lecture11.pdf)                                                | [lab10](../../raw/master/labs/ex10/exercise10.pdf) | 
-| 12 | 23.5.  | Optimization for Large Language Models (LLMs) (Guest lecture from the SwissAI LLMs team)                                |  [slides](../../raw/master/slides/lecture12.pdf)                                                      | Q&A Projects                          |
-| 13 | 30.5. | `Mini-Project week`                                   |                                                                                                            | -                                     |
+| 1  | 20.2. | Introduction, Convexity                               |  [slides](../../raw/master/slides/lecture01.pdf)| [lab00](../../raw/master/labs/ex00/exercise00.pdf)|
+| 2  | 27.2.  | Gradient Descent                                      |  -  | -  |
+| 3  | 6.3.  | Projected Gradient Descent                            |   -  | -  |
+| 4  | 13.3. | Proximal and Subgradient Descent                      |  -  |  -   |
+| 5  | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  -  | -   |
+| 6  | 27.3. | Non-Convex Optimization                               | -  | -   |
+| .  | 3.4. | `easter vacation`                                     |                                                                                                            | -                                     |
+| .  | 10.4.  | `easter vacation`                                     |                                                                                                            | -                                     |
+| 9  |  17.4. | Frank-Wolfe                                           |  -   | -  |
+| 7  | 24.4. | Newton's Method & Quasi-Newton                        | -  | -   |
+| 8  | 1.5. | Coordinate Descent                                    |  -   -   |
+| 10 | 8.5. | Lower Bounds and Accelerated Gradient Descent |   -  | -  |
+| 11 | 15.5.  | Q & A Projects                                 |    -                                                  | -   | 
+| 12 | 22.5.  | Gradient free and adaptive methods                           |  -                                                       | -                            |
+| 13 | 29.5.  | -                           |  -                                                       | -                            |
 
 ### Lecture Notes:
 The course is based on the following [lecture notes](../../raw/master/lecture_notes/lecture-notes.pdf).
