@@ -48,9 +48,9 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 7  | 24.4. | Newton's Method & Quasi-Newton                        | -  | -   |
 | 8  | 1.5. | Coordinate Descent                                    |  -    |
 | 10 | 8.5. | Lower Bounds and Accelerated Gradient Descent |   -  | -  |
-| 11 | 15.5.  | Q & A Projects (Ascension Day Bridge Day)                                 |    -                                                  | -   | 
+| 11 | 15.5.  | - (`Ascension Day Bridge Day`)                                 |    -                                                  | Q & A Projects  | 
 | 12 | 22.5.  | Gradient free and adaptive methods                           |  -                                                       | -                            |
-| 13 | 29.5.  | -                           |  -                                                       | -                            |
+| 13 | 29.5.  | Optimization for real-world AI model training        |  -                                                       | -                            |
 
 ### Lecture Notes:
 The course is based on the following [lecture notes](../../raw/master/lecture_notes/lecture-notes.pdf).
@@ -65,7 +65,7 @@ The [weekly exercises](../../tree/master/labs/) consist of a mix of theoretical 
 [Discussion forum](https://edstem.org/eu/courses/2242/discussion) (EPFL internal)
 
 ### Project:
-A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 13th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
+A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 12th. Here is a [detailed project description](../../raw/master/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
 Session Exam. Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used).
