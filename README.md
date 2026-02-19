@@ -13,12 +13,9 @@ This course teaches an overview of modern mathematical optimization methods, for
    - Martin Jaggi [martin.jaggi@epfl.ch](mailto:martin.jaggi@epfl.ch)
    - Nicolas Flammarion [nicolas.flammarion@epfl.ch](mailto:nicolas.flammarion@epfl.ch)
  - Assistants:
-   - 
-   - 
-   - 
    - Yitao Xu [yitao.xu@epfl.ch](mailto:yitao.xu@epfl.ch)
-
- 
+   - Gizem Yüce [gizem.yuce@epfl.ch](mailto:gizem.yuce@epfl.ch)
+   - Mark Rofin [mark.rofin@epfl.ch](mailto:mark.rofin@epfl.ch)
 
    
 `Contents:`
