@@ -32,10 +32,10 @@ git pull
 Google colab provides a similar environment to Noto, with additional access to GPUs (not needed in the first few labs). Note that you need to take care of storing the files permanently yourself (storing on Google Drive, downloading to a local machine, ...).
 
 You can open any exercise by adapting `XY` with the lab number and `PATH_TO_FILE` with the path of the notebook you wish to open:  
-`http://colab.research.google.com/github/epfml/OptML_course/blob/master/labs/exXY/PATH_TO_FILE`
+`http://colab.research.google.com/github/epfml/OptML_course/blob/main/labs/exXY/PATH_TO_FILE`
 
 E.g. for the numpy introduction `npprimer.ipynb`:  
-[`http://colab.research.google.com/github/epfml/OptML_course/blob/master/labs/ex00/npprimer.ipynb`](http://colab.research.google.com/github/epfml/OptML_course/blob/master/labs/ex00/npprimer.ipynb)
+[`http://colab.research.google.com/github/epfml/OptML_course/blob/main/labs/ex00/npprimer.ipynb`](http://colab.research.google.com/github/epfml/OptML_course/blob/main/labs/ex00/npprimer.ipynb)
 
 You can also create an empty notebook by following this [link](https://colab.research.google.com/) and clicking `"NEW NOTEBOOK"`, or you can open a pre-existing notebook (.ipynb extension) by selecting the `Upload` tab.
 
@@ -60,7 +60,7 @@ For additional resources on how the notebook system works, we recommend
 
 #### Examples
 
-We provide you with an example of a notebook for [this first lab](https://github.com/epfml/OptML_course/tree/master/labs/ex00), but if you want to see some more examples already, feel free to take a look at
+We provide you with an example of a notebook for [this first lab](https://github.com/epfml/OptML_course/tree/main/labs/ex00), but if you want to see some more examples already, feel free to take a look at
 
 * The introductory notebooks available at [Try Jupyter](https://try.jupyter.org/). It spawns an instance of the Jupyter Notebook, which won't save any of your changes.
   *Note: it might not be available if their server is under too much load.*
@@ -70,18 +70,19 @@ We provide you with an example of a notebook for [this first lab](https://github
 
 There are a few handy commands that you should start every notebook with
 
+```python
+# Plot figures in the notebook (instead of a new window)
+%matplotlib notebook
 
-	# Plot figures in the notebook (instead of a new window)
-	%matplotlib notebook
+# Automatically reload modules
+%load_ext autoreload
+%autoreload 2
 
-	# Automatically reload modules
-	%load_ext autoreload
-	%autoreload 2
-
-	# The usual imports
-	import matplotlib.pyplot as plt
-	import numpy as np
-	import pandas as pd
+# The usual imports
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+```
 
 #### Keyboard shortcuts
 
@@ -112,7 +113,7 @@ For a nice introduction to Python, you should take a look at [the Python tutoria
 
 	* Section 4.2 on for loops, as they behave like `foreach` by default, which may be disturbing if you are more accustomed to coding in lower level languages.
 	* Section 4.7 on functions, default argument values and named arguments, as they are a real pleasure to use (compared to traditional, order-based arguments) once you are used to it.
-* Section 5 on Data Structures, especially how to use Lists, Dictionnaries and Tuples if you have not used a language with those concepts before
+* Section 5 on Data Structures, especially how to use Lists, Dictionaries and Tuples if you have not used a language with those concepts before
 * You can keep Sections 6-9 on Modules, IO, Exceptions and Objects for later - when you know you will be needing it.
 * Section 10 on the standard library and [the standard library index](https://docs.python.org/3/library/index.html) are worth a quick scroll to see what's available.
 * Do not bother with Sections 11-16 for now.
@@ -137,11 +138,11 @@ A good and probably more complete reference is [this one](https://sites.engineer
 
 ### Installation FAQ
 
-> **Other shell.** If you are using another shell (e.g. zsh on Mac OSX), after installing Anaconda you still need to add the installed software to your path, that is to add it to the correct profile of your shell. To do so, run the following commands in your terminal ` touch ~/.bash_profile; open ~/.bash_profile`. It will open your bash profile where you'll see the line that was added by the Python installer. Copy it. Then ` touch ~/.zshrc; open ~/.zshrc`, that will open the profile for zsh, you can paste the line at the bottom of the file.
+> **Shell configuration.** If conda commands are not recognized after installation, run `conda init zsh` (or `conda init bash` for bash) in your terminal and restart your shell. This automatically configures your shell profile.
 
-> **Alternative Python IDEs.** While we recommend plain Jupyter Notebooks, if you are more comfortable using a more traditional IDE, you can give [**PyCharm**](https://www.jetbrains.com/pycharm/) a try. Your EPFL email gives you access to the free educational version. You should keep this option in mind if you need a full fledged debugger to find a nasty bug.
+> **Alternative Python IDEs.** While we recommend plain Jupyter Notebooks, if you are more comfortable using a more traditional IDE, you can give [**VS Code**](https://code.visualstudio.com/) with the Python and Jupyter extensions a try - it provides excellent notebook support and debugging. Alternatively, [**PyCharm**](https://www.jetbrains.com/pycharm/) is another great option; your EPFL email gives you access to the free educational version.
 
-And of course, as a third alternative, you can always use a [decent text editor](https://www.sublimetext.com/) and run your code from the console or any plugin. Keep in mind that the TAs might not be able to help you with your setup if you go down this path.
+As another alternative, you can always use a text editor and run your code from the console. Keep in mind that the TAs might not be able to help you with your setup if you go down this path.
 
 ## Download the exercises content & basic Git tutorial
 
@@ -162,8 +163,8 @@ GitHub Desktop simplifies the interaction with a GitHub repository by providing 
 **Download repository.** Once Git is installed you can pull a github repository using: `git clone <url.git>`, e.g. `git clone https://github.com/epfml/OptML_course.git`.
 
 **Collaborative coding.** A standard workflow when working as a group is to implement features through pull-requests (PR):
-* You do not want to break the master branch by mistake, so you start by creating and moving to a new branch: `git checkout -b <name-of-my-new-branch>`
-* Now you're safe on your new branch, the modifications you're making won't affect the master branch. You can modify/create new files as if you were on the master branch e.g.
+* You do not want to break the main branch by mistake, so you start by creating and moving to a new branch: `git checkout -b <name-of-my-new-branch>`
+* Now you're safe on your new branch, the modifications you're making won't affect the main branch. You can modify/create new files as if you were on the main branch e.g.
 
 ```bash
 # let's say we modify file.py here
@@ -173,7 +174,7 @@ git commit -m "some message clearly explaining the modification"
 ```
 * Once you are done doing all the modifications you want you can push to your new branch: `git push origin <name-of-my-new-branch>`.
 * Finally you can open a PR from the GitHub user interface. Typically you would ask your colleagues to review your PR and accept it or ask for modifications.
-* Once your PR is accepted and merged, do not forget to switch back to master: `git checkout master` and pull your approved changes `git pull origin master`.
+* Once your PR is accepted and merged, do not forget to switch back to main: `git checkout main` and pull your approved changes `git pull origin main`.
 
 ## Additional References
 
