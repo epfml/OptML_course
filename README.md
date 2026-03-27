@@ -37,8 +37,8 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 2  | 27.2.  | Gradient Descent                                      |  [slides](../../raw/main/slides/lecture02.pdf)  | [lab01](../../raw/main/labs/ex01/exercise01.pdf)  |
 | 3  | 6.3.  | Projected Gradient Descent                            |   [slides](../../raw/main/slides/lecture03.pdf)  | [lab02](../../raw/main/labs/ex02/exercise02.pdf)  |
 | 4  | 13.3. | Proximal and Subgradient Descent                      |  [slides](../../raw/main/slides/lecture04.pdf)   |  [lab03](../../raw/main/labs/ex03/exercise03.pdf)    |
-| 5  | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  [slides](../../raw/main/slides/lecture05.pdf)   | [lab04](../../raw/main/labs/ex04/exercise04.pdf), [lab04b](../../raw/main/labs/ex04/exercise04b.pdf)   |
-| 6  | 27.3. | Non-Convex Optimization                               | [slides](../../raw/main/slides/lecture06.pdf) | -   |
+| 5  | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  [slides](../../raw/main/slides/lecture05.pdf)   | [lab04](../../raw/main/labs/ex04/exercise04.pdf)  |
+| 6  | 27.3. | Non-Convex Optimization                               | [slides](../../raw/main/slides/lecture06.pdf) | [lab05](../../raw/main/labs/ex04/exercise05.pdf)  |
 | .  | 3.4. | `Easter vacation`                                     |                                                                                                            | -                                     |
 | .  | 10.4.  | `Easter vacation`                                     |                                                                                                            | -                                     |
 | 7  |  17.4. | Frank-Wolfe                                           |  -   | -  |
@@ -65,7 +65,9 @@ The [weekly exercises](../../tree/main/labs/) consist of a mix of theoretical an
 A `mini-project` will focus on the practical implementation: Here we encourage students to investigate the real-world performance of one of the studied optimization algorithms or variants, helping to provide solid empirical evidence for some behaviour aspects on a real machine-learning task. The project is mandatory and done in groups of 3 students. It will count 30% to the final grade. Project reports (3 page PDF) are due June 12th. Here is a [detailed project description](../../raw/main/labs/mini-project/miniproject_description.pdf).
 
 ### Assessment:
-Session Exam. Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used).
+Session Exam. Exam Date: Thursday 18.06.2026 from 09h15 to 12h15 (CE 1 515).
+
+Format: Closed book. Theoretical questions similar to exercises. You are allowed to bring one cheat sheet (A4 size paper, both sides can be used).
 
 For practice: 
 - exams [2025](../../raw/main/exams/exam2025.pdf), [2024](../../raw/main/exams/exam2024.pdf), [2023](../../raw/main/exams/exam2023.pdf), [2022](../../raw/main/exams/exam2022.pdf), [2021](../../raw/main/exams/exam2021.pdf), [2020](../../raw/main/exams/exam2020.pdf), [2019](../../raw/main/exams/exam2019.pdf), [2018](../../raw/main/exams/exam2018.pdf)
