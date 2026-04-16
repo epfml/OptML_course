@@ -33,21 +33,21 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 ### Program:
 | Nr | Date  | Topic                                                 | Materials                                                                                                  | Exercises                             |
 | -- | ----- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 1  | 20.2. | Introduction, Convexity                               |  [slides](../../raw/main/slides/lecture01.pdf)| [lab00](../../raw/main/labs/ex00/exercise00.pdf)|
-| 2  | 27.2.  | Gradient Descent                                      |  [slides](../../raw/main/slides/lecture02.pdf)  | [lab01](../../raw/main/labs/ex01/exercise01.pdf)  |
-| 3  | 6.3.  | Projected Gradient Descent                            |   [slides](../../raw/main/slides/lecture03.pdf)  | [lab02](../../raw/main/labs/ex02/exercise02.pdf)  |
-| 4  | 13.3. | Proximal and Subgradient Descent                      |  [slides](../../raw/main/slides/lecture04.pdf)   |  [lab03](../../raw/main/labs/ex03/exercise03.pdf)    |
-| 5  | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization  |  [slides](../../raw/main/slides/lecture05.pdf)   | [lab04](../../raw/main/labs/ex04/exercise04.pdf)  |
-| 6  | 27.3. | Non-Convex Optimization                               | [slides](../../raw/main/slides/lecture06.pdf) | [lab05](../../raw/main/labs/ex05/exercise05.pdf)  |
-| .  | 3.4. | `Easter vacation`                                     |                                                                                                            | -                                     |
-| .  | 10.4.  | `Easter vacation`                                     |                                                                                                            | -                                     |
-| 7  |  17.4. | Frank-Wolfe                                           |  -   | [lab06](../../raw/main/labs/ex06/exercise06.pdf) |
-| 8  | 24.4. | Newton's Method & Quasi-Newton                        | -  | -   |
-| 9  | 1.5. | Coordinate Descent                                    |  -    |
-| 10 | 8.5. | Lower Bounds and Accelerated Gradient Descent |   -  | -  |
-| 11 | 15.5.  | (`Ascension Day Bridge Day`)                                 |    -                                                  | Q & A Projects  | 
-| 12 | 22.5.  | Gradient free and adaptive methods                           |  -                                                       | -                            |
-| 13 | 29.5.  | Optimization for real-world AI model training        |  -                                                       | -                            |
+| 1  | 20.2. | Introduction, Convexity                               | [slides](../../raw/main/slides/lecture01.pdf)  | [lab00](../../raw/main/labs/ex00/exercise00.pdf)  |
+| 2  | 27.2. | Gradient Descent                                      | [slides](../../raw/main/slides/lecture02.pdf)  | [lab01](../../raw/main/labs/ex01/exercise01.pdf)  |
+| 3  | 6.3.  | Projected Gradient Descent                            | [slides](../../raw/main/slides/lecture03.pdf)  | [lab02](../../raw/main/labs/ex02/exercise02.pdf)  |
+| 4  | 13.3. | Proximal and Subgradient Descent                      | [slides](../../raw/main/slides/lecture04.pdf)  | [lab03](../../raw/main/labs/ex03/exercise03.pdf)  |
+| 5  | 20.3. | Stochastic Gradient Descent, Non-Convex Optimization  | [slides](../../raw/main/slides/lecture05.pdf)  | [lab04](../../raw/main/labs/ex04/exercise04.pdf)  |
+| 6  | 27.3. | Non-Convex Optimization                               | [slides](../../raw/main/slides/lecture06.pdf)  | [lab05](../../raw/main/labs/ex05/exercise05.pdf)  |
+| .  | 3.4.  | `Easter vacation`                                     |                                                | -                                                 |
+| .  | 10.4. | `Easter vacation`                                     |                                                | -                                                 |
+| 7  | 17.4. | Newton's Method & Quasi-Newton                        | [slides](../../raw/main/slides/lecture07.pdf)  | [lab06](../../raw/main/labs/ex06/exercise06.pdf)  |
+| 8  | 24.4. | Frank-Wolfe & Muon                                    |  -   |  -   |
+| 9  | 1.5.  | Coordinate Descent                                    |  -   |  -   |
+| 10 | 8.5.  | Lower Bounds and Accelerated Gradient Descent         |  -   |  -   |
+| 11 | 15.5. | (`Ascension Day Bridge Day`)                          |  -                                             | Q & A Projects               | 
+| 12 | 22.5. | Gradient free and adaptive methods                    |  -                                             | -                            |
+| 13 | 29.5. | Optimization for real-world AI model training         |  -                                             | -                            |
 
 ### Lecture Notes:
 The course is based on the following [lecture notes](../../raw/main/lecture_notes/lecture-notes.pdf).
