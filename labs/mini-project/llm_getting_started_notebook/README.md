@@ -1,5 +1,7 @@
 # A notebook for LLM training
 
+Created by Yitao Xu, 2026/04/24
+
 The notebook will show you how to train a GPT2-like model from scratch, in a reasonable time, and without needing a whole compute cluster.
 You can modify the optimizers to see how different optimizers (such as from PyTorch) behave during the training.
 
