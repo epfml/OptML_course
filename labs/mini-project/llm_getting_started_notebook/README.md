@@ -1,12 +1,10 @@
 # A notebook for LLM training
 
-Created by Yitao Xu, 2026/04/24
-
 The notebook will show you how to train a GPT2-like model from scratch, in a reasonable time, and without needing a whole compute cluster.
 You can modify the optimizers to see how different optimizers (such as from PyTorch) behave during the training.
 
 For some similar resources, see also 
-- https://github.com/kellerjordan/modded-nanogpt (speed run competition)
+- https://github.com/KellerJordan/modded-nanogpt/tree/master/records/track_3_optimization (speed run competition for optimizers, highly recommended)
 - https://github.com/karpathy/autoresearch (same but in a loop for agent-assisted edits of the recipe)
 - https://github.com/epfml/llm-baselines (based on nanoGPT as above, with some useful hyperparameters)
 
