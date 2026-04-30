@@ -24,7 +24,7 @@ runai submit \
         --environment CLUSTER_GROUP_NAME=<group_name> \
         --environment CLUSTER_GROUP_ID=<group_id> \
         --command \
-        -- /bin/bash -c 'source /opt/lab/setup.sh && pip install --upgrade jupyterlab && su <user_name> -c "jupyter lab --ip=0.0.0.0 --no-browser --notebook-dir=/"'
+        -- /bin/bash -c 'source /opt/lab/setup.sh && pip install --upgrade jupyterlab && pip install -U "packaging>=23.2" && su <user_name> -c "jupyter lab --ip=0.0.0.0 --no-browser --notebook-dir=/"'
 ```
 
 The information for filling out the blank fields will come with the RCP access. We provide an install.sh file for necessary dependencies. 
