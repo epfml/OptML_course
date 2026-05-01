@@ -44,7 +44,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 7  | 17.4. | Newton's Method & Quasi-Newton                        | [slides](../../raw/main/slides/lecture07.pdf)  | [lab06](../../raw/main/labs/ex06/exercise06.pdf)  |
 | 8  | 24.4. | Frank-Wolfe & Muon                                    | [slides](../../raw/main/slides/lecture08.pdf)  | [lab07](../../raw/main/labs/ex07/exercise07.pdf)  |
 | 9  | 1.5.  | Coordinate Descent                                    |  -   |  [lab08](../../raw/main/labs/ex08/exercise08.pdf)    |
-| 10 | 8.5.  | Lower Bounds and Accelerated Gradient Descent         |  -   |  -   |
+| 10 | 8.5.  | Lower Bounds and Accelerated Gradient Descent         |  -   | [lab09](../../raw/main/labs/ex09/exercise09.pdf)   |
 | 11 | 15.5. | (`Ascension Day Bridge Day`)                          |  -                                             | Q & A Projects               | 
 | 12 | 22.5. | Gradient free and adaptive methods                    |  -                                             | -                            |
 | 13 | 29.5. | Optimization for real-world AI model training         |  -                                             | -                            |
