@@ -46,7 +46,7 @@ Non-Convex Optimization: Convergence to Critical Points, Alternating minimizatio
 | 9  | 1.5.  | Coordinate Descent                                    | [slides](../../raw/main/slides/lecture09.pdf)  | [lab08](../../raw/main/labs/ex08/exercise08.pdf)  |
 | 10 | 8.5.  | Lower Bounds and Accelerated Gradient Descent         | [slides](../../raw/main/slides/lecture10.pdf)  | [lab09](../../raw/main/labs/ex09/exercise09.pdf)  |
 | 11 | 15.5. | (`Ascension Day Bridge Day`)                          |  -                                             | Q & A Projects               | 
-| 12 | 22.5. | Gradient free and adaptive methods                    |  -                                             | -                            |
+| 12 | 22.5. | Gradient free and adaptive methods                    |  -                                             | [lab10](../../raw/main/labs/ex10/exercise10.pdf)  |
 | 13 | 29.5. | Optimization for real-world AI model training         |  -                                             | -                            |
 
 ### Lecture Notes:
